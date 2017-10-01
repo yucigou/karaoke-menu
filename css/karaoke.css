@@ -1,0 +1,58 @@
+body {
+	background-color: rgb(234, 234, 234);
+	padding-left:0px;
+}
+td.column {
+	/*width:20%;*/
+}
+td.header {
+  font-weight: bold;
+  /*background-color: rgb(201, 201, 201);*/
+  background-color: white;
+  /*width:10%;*/
+  text-align: center;
+  font-size: small;
+}
+a {
+  font-size: small;
+  font-weight:bold;
+  color: green;
+}
+
+/* visited link */
+a:visited {
+    color: orange;
+}
+
+table, td, th {
+  border:0px;
+}
+td {
+	padding-left: 1px;
+	background-color: #C9C9C9;
+	opacity: 1;
+}
+
+td.mtv {
+	color: red;
+}
+
+td.mtv a {
+	/*color: red;*/
+	font-weight:bold;
+}
+
+tr.pop_folk {
+	/*display:none;*/
+}
+
+tr.pop_folk a {
+	color: #FF0099;
+	font-weight:bold;
+	text-shadow:15px 2px white;
+}
+
+body {
+	background-image:url('../images/moon_harvest_9-29-2012.jpeg');
+	background-color:#cccccc;
+}
