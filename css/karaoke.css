@@ -56,3 +56,8 @@ body {
 	background-image:url('../images/moon_harvest_9-29-2012.jpeg');
 	background-color:#cccccc;
 }
+
+a {
+   pointer-events: none;
+   cursor: default;
+}
